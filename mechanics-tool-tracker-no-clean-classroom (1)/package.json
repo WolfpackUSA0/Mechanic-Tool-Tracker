@@ -15,7 +15,7 @@
     "html5-qrcode": "^2.3.8",
     "react-qr-code": "^2.0.12",
     "react-barcode": "^1.5.3",
-    "@supabase/supabase-js": "^2.45.4",
+    "@supabase/supabase-js": "^2.49.8",
     "nodemailer": "^6.9.14"
   }
 }
