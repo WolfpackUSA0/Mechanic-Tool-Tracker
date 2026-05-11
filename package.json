@@ -1,0 +1,21 @@
+{
+  "name": "tool-control-real-shop-v1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "html5-qrcode": "^2.3.8",
+    "react-qr-code": "^2.0.12",
+    "react-barcode": "^1.5.3",
+    "@supabase/supabase-js": "^2.49.8",
+    "nodemailer": "^6.9.14"
+  }
+}
