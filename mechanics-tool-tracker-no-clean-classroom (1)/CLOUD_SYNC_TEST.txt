@@ -1,8 +1,0 @@
-1. Upload these files to GitHub
-2. Wait for Vercel redeploy
-3. Open website on TWO devices
-4. Add a tool on one device
-5. Refresh second device
-
-If both devices match:
-Supabase cloud sync is working.
